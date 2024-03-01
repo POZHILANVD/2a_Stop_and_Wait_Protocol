@@ -43,8 +43,10 @@ while True:
 
 ## OUTPUT
 # client 
-![client](https://github.com/POZHILANVD/2a_Stop_and_Wait_Protocol/assets/144870498/00a085cc-0a84-46aa-89bb-6bcfa2e63c8a)
+![client](https://github.com/POZHILANVD/2a_Stop_and_Wait_Protocol/assets/144870498/642d87bd-6038-4f30-aae7-08ad3914e5a8)
+
 # server
-![server](https://github.com/POZHILANVD/2a_Stop_and_Wait_Protocol/assets/144870498/61bfed57-acfb-4d02-85e1-7ea2d982ac76)
+![server](https://github.com/POZHILANVD/2a_Stop_and_Wait_Protocol/assets/144870498/dfd3f01f-18c2-465b-89c0-73c093732719)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
