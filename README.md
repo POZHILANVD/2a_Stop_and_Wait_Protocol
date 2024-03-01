@@ -1,4 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -9,7 +10,8 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-# client
+# client 
+
 ```
 import socket 
 s=socket.socket() 
@@ -27,7 +29,9 @@ while True:
         c.close() 
         break
 ```
+
 # server
+
 ```
 import socket 
 s=socket.socket() 
@@ -36,6 +40,7 @@ while True:
     print(s.recv(1024).decode()) 
     s.send("Acknowledgement Recived".encode())
 ```
+
 ## OUTPUT
 # client 
 ![client](https://github.com/POZHILANVD/2a_Stop_and_Wait_Protocol/assets/144870498/00a085cc-0a84-46aa-89bb-6bcfa2e63c8a)
